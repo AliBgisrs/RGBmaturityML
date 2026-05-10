@@ -1,0 +1,15 @@
+numpy
+pandas
+geopandas
+rasterio
+fiona
+shapely
+pyogrio
+opencv-python
+matplotlib
+scipy
+xlsxwriter
+openpyxl
+scikit-learn
+xgboost
+pyinstaller
